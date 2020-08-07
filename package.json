@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": false,
   "author": {
-    "name": "Hoang Thai Hoc"
+    "name": "Hoang Thai Hoc",
+    "url": "https://github.com/hoc-ht"
   },
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -11,6 +12,14 @@
     "dist",
     "README.md"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoc-ht/hform.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hoc-ht/hform/issues"
+  },
+  "homepage": "https://github.com/hoc-ht/hform",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
