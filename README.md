@@ -5,7 +5,7 @@ A simple ReactJS form library.
 ## Installation
 
 Run the following command:
-`npm install hform`
+`npm install @hoc-ht/hform`
 
 ## Authors
 
