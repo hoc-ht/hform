@@ -2,10 +2,7 @@
   "name": "@hoc-ht/hform",
   "version": "0.1.0",
   "private": false,
-  "author": {
-    "name": "Hoang Thai Hoc",
-    "url": "https://github.com/hoc-ht"
-  },
+  "author": "Hoang Thai Hoc (https://github.com/hoc-ht)",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
@@ -55,5 +52,7 @@
   },
   "peerDependencies": {
     "react": ">=16.3.0"
-  }
+  },
+  "description": "A simple ReactJS form library.",
+  "license": "MIT"
 }
